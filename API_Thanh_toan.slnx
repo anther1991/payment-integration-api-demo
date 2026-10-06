@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="API Thanh toan.csproj" />
+  <Project Path="API_Thanh_toan.Tests/API_Thanh_toan.Tests.csproj" />
+</Solution>

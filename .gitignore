@@ -1,0 +1,29 @@
+## Ignore Visual Studio / .NET build artifacts
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore Log files
+logs/
+*.log
+
+## Ignore OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Ignore Data Protection Keys
+DataProtection-Keys/
+
+## Không đưa bí mật / tài liệu nội bộ lên git
+appsettings.*.local.json
+appsettings.Production.json
+*.docx
+~$*
+.env
